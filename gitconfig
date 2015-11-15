@@ -23,5 +23,5 @@
   untracked = cyan
 [core]
   editor = vim
-	excludesfile = $HOME/.gitignore_global
+  excludesfile = $HOME/.gitignore_global
 	
